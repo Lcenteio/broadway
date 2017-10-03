@@ -18,7 +18,12 @@ h3 {
 
 }
 
-ul {
+ul,
+a {
   font-size: 18px;
   color: white;
+}
+
+.banner {
+  background-image: url("resources\images\the-flatiron-building.png");
 }
