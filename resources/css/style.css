@@ -30,11 +30,18 @@ ul {
   background-image: url("resources/images/the-flatiron-building.png");
 }
 
-li a {
+li a,
+a {
   list-style-type: none;
   color: white;
 }
 
 p {
   font-size: 14px;
+}
+#footer p {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
